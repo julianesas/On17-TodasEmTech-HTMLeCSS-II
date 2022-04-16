@@ -192,7 +192,7 @@ _Quais são:_
 
     ![grid-100](./img/grid-100.jpg)
 
-    Vamos conferir o [exemplo 😊](./exemplos/exemplo-medidas-viewport.html)
+    
 
 * Outras unidades de medida
 
